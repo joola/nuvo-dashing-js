@@ -44,7 +44,7 @@
   "repository": "git://github.com/lokulin/nuvo-dashing-js",
   "main": "index",
   "bin": {
-    "dashing-js": "./bin/dashing-js"
+    "nuvo-dashing-js": "./bin/nuvo-dashing-js"
   },
   "scripts": {
     "test": "make test"
